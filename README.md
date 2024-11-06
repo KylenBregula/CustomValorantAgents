@@ -1,5 +1,6 @@
 # My_Valorant_Agent4
 
+This project is not affiliated with, endorsed by, or sponsored by Riot Games Inc. Valorant and all related assets, including models, animations, and other intellectual property, belong to Riot Games Inc. This project is for educational and non-commercial purposes only. All Valorant-related assets are used under fair use for personal learning and development. Please support the official release by Riot Games.
 I am always fascinated about agent design in Valorant. It is the ultimate challenge of using your creativity against the constraints and rules of Valorant.
 The constraints are there to keep agent balance in check and to keep the game healthy for the long term.
 
