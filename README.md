@@ -29,7 +29,12 @@ SandStorm (C): EQUIP a smoke to throw that perpetually remains throughout the ro
 
 Ascend (X): INSTANTLY get two charges of mirage.
 
-
+GOALS:
+- Fixed known bugs I have with the code
+- Learning unreal engine niagara particle system for better effects on abilties
+- Improve on the project with a mixture of C++ Coding
+- Remodel / Revamp the project in which allows for easier time adding more agents
+- Fix Lighting and shading of maps
 
 
 
